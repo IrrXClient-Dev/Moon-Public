@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="755" height="150" src="assets/images/Text.png">
+	<img width="755" height="150" src="https://cdn.discordapp.com/attachments/1093940794462843050/1107648301869830284/Text.png">
 </p>
 
 # Moon Client
